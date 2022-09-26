@@ -1,6 +1,6 @@
 """
 --------------------------------------------------------------------------
-Simple Calculator
+blink_LED
 --------------------------------------------------------------------------
 License:   
 Copyright 2022 - HARLAN COOK
@@ -32,22 +32,20 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
 THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------
 
-Simple calculator that will 
-  - Take in two numbers from the user
-  - Take in an operator from the user
-  - Perform the mathematical operation and provide the number to the user
-  - Repeat
-
-Operations:
-  - addition
-  - subtraction
-  - multiplication
-  - division
-  
-Error conditions:
-  - Invalid operator --> Program should exit
-  - Invalid number   --> Program should exit
+Will blink the onboard USR3 LED at 5Hz
 
 --------------------------------------------------------------------------
 """
 import Adafruit_BBIO.GPIO as GPIO
+import time
+
+for i in range(4):
+    GPIO.setup("USR%d" % i, GPIO.OUT)
+
+while True:
+    for i in range(3):
+        GPIO.output("USR%d" % 3, GPIO.HIGH)
+        time.sleep(.05)
+    for i in range(3):
+        GPIO.output("USR%d" % 3, GPIO.LOW)
+        time.sleep(.05)
