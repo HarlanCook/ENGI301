@@ -44,6 +44,10 @@ Operations:
   - subtraction
   - multiplication
   - division
+  - right shift
+  - left shift
+  - modulo
+  - exponentiation
 
 Error conditions:
   - Invalid operator --> Program should exit
@@ -55,6 +59,7 @@ Error conditions:
 # NOTE - Add import statements to allow access to Python library functions
 
 import operator
+import sys
 
 # ------------------------------------------------------------------------
 # Constants
@@ -102,13 +107,19 @@ def get_user_input():
 
             
     try:
+        #for python2 compatibility, check sys version and run either raw_input or input
 
-        number1 = float(input("Enter first number: "))
-        number2 = float(input("Enter second number: "))
-
-        op      = input("Enter function (valid values are +, -, *, /, >>, <<, %, ^): ")
+        if (sys.version[0] == '2'):
+            number1 = float(raw_input("Enter first number: "))
+            number2 = float(raw_input("Enter second number: "))
+            op      = raw_input("Enter function (valid values are +, -, *, /, >>, <<, %, ^): ")
+        else:
+            number1 = float(input("Enter first number: "))
+            number2 = float(input("Enter second number: "))
+            op      = input("Enter function (valid values are +, -, *, /, >>, <<, %, ^): ")
 
         func    = operators.get(op)
+        #we need integers only for right and left shift
         if (func == operator.rshift) or (func == operator.lshift):
             number1 = int(number1)
             number2 = int(number2)
