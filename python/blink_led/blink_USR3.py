@@ -51,5 +51,5 @@ while True:
         GPIO.output("USR%d" % 3, GPIO.LOW)
         time.sleep(.1) #.1 seconds
         
-        #5 Hz = 1/5 blinks per second, which is .2 seconds per cycle
+        #5 Hz = 5 blinks per second, which is .2 seconds per cycle
         # having .1 sec on and .1 sec off makes it blink at 5 Hz indefinitely
