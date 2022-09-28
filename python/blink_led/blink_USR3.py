@@ -41,11 +41,15 @@ import time
 
 for i in range(4):
     GPIO.setup("USR%d" % i, GPIO.OUT)
+    #setting all LEDs to off
 
 while True:
     for i in range(3):
         GPIO.output("USR%d" % 3, GPIO.HIGH)
-        time.sleep(.05)
+        time.sleep(.1) #.1 seconds
     for i in range(3):
         GPIO.output("USR%d" % 3, GPIO.LOW)
-        time.sleep(.05)
+        time.sleep(.1) #.1 seconds
+        
+        #5 Hz = 1/5 blinks per second, which is .2 seconds per cycle
+        # having .1 sec on and .1 sec off makes it blink at 5 Hz indefinitely
