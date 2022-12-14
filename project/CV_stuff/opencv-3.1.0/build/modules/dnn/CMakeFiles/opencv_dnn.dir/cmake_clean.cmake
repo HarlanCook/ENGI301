@@ -1,0 +1,38 @@
+file(REMOVE_RECURSE
+  "caffe.pb.cc"
+  "caffe.pb.h"
+  "opencl_kernels_dnn.cpp"
+  "opencl_kernels_dnn.hpp"
+  "CMakeFiles/opencv_dnn.dir/caffe.pb.cc.o"
+  "CMakeFiles/opencv_dnn.dir/src/blob.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/caffe/caffe_importer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/caffe/caffe_io.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/dnn.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/init.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/concat_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/convolution_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/fully_connected_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/im2col.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/layers_common.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/lrn_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/mvn_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/pooling_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/reshape_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/slice_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/softmax_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/layers/split_layer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/torch/THDiskFile.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/torch/THFile.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/torch/THGeneral.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/src/torch/torch_importer.cpp.o"
+  "CMakeFiles/opencv_dnn.dir/opencl_kernels_dnn.cpp.o"
+  "../../lib/libopencv_dnn.pdb"
+  "../../lib/libopencv_dnn.so.3.1.0"
+  "../../lib/libopencv_dnn.so"
+  "../../lib/libopencv_dnn.so.3.1"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/opencv_dnn.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

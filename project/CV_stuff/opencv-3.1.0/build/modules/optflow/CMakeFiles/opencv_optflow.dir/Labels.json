@@ -1,0 +1,132 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/include/opencv2/optflow.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/include/opencv2/optflow/motempl.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/deepflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/interfaces.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/motempl.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/optical_flow_io.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/simpleflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/sparsetodenseflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/opencl/updatemotionhistory.cl",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/optflow/opencl_kernels_optflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/optflow/opencl_kernels_optflow.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/cvconfig.h"
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/optflow/opencl_kernels_optflow.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_optflow",
+			"Module"
+		],
+		"name" : "opencv_optflow"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/datasets/samples/msm_middlebury.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_datasets",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_datasets",
+			"Sample"
+		],
+		"name" : "example_datasets_msm_middlebury"
+	}
+}

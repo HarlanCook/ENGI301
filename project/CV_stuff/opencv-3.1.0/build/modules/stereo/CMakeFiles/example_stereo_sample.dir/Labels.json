@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/samples/sample.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_stereo",
+			"Sample"
+		],
+		"name" : "example_stereo_sample"
+	}
+}

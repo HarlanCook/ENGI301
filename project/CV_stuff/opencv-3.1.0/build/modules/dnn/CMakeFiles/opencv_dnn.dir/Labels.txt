@@ -1,0 +1,225 @@
+# Target labels
+ Extra
+ opencv_dnn
+ Module
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/dnn/caffe.pb.cc
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/dnn/caffe.pb.h
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn/blob.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn/blob.inl.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn/dict.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn/dnn.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/include/opencv2/dnn/layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/blob.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/caffe/caffe_importer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/caffe/caffe_io.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/dnn.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/init.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/concat_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/convolution_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/fully_connected_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/im2col.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/layers_common.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/lrn_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/mvn_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/pooling_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/reshape_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/slice_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/softmax_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/split_layer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THDiskFile.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THFile.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THGeneral.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/torch_importer.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/opencl/im2col.cl
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/dnn/opencl_kernels_dnn.cpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/dnn/opencl_kernels_dnn.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/caffe/caffe_io.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/caffe/glog_emulator.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/blank_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/concat_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/convolution_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/elementwise_layers.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/fully_connected_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/im2col.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/layers_common.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/lrn_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/mvn_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/pooling_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/reshape_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/slice_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/softmax_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/layers/split_layer.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/precomp.hpp
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THDiskFile.h
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THFile.h
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THFilePrivate.h
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/src/torch/THGeneral.h
+ Extra
+ opencv_dnn
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/cvconfig.h
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/opencv2/opencv_modules.hpp
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/dnn/caffe.pb.cc.rule
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/modules/dnn/opencl_kernels_dnn.cpp.rule

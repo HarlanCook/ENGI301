@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/bioinspired/perf/opencl/perf_retina.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bioinspired",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/bioinspired/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bioinspired",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/bioinspired/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bioinspired",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_bioinspired",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_bioinspired"
+	}
+}

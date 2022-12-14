@@ -1,0 +1,23 @@
+# Target labels
+ Extra
+ opencv_hdf
+ Module
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/hdf/include/opencv2/hdf.hpp
+ Extra
+ opencv_hdf
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/hdf/include/opencv2/hdf/hdf5.hpp
+ Extra
+ opencv_hdf
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/hdf/src/hdf5.cpp
+ Extra
+ opencv_hdf
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/hdf/src/precomp.hpp
+ Extra
+ opencv_hdf
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/cvconfig.h
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/opencv2/opencv_modules.hpp

@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xfeatures2d/samples/video_homography.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xfeatures2d",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xfeatures2d",
+			"Sample"
+		],
+		"name" : "example_xfeatures2d_video_homography"
+	}
+}

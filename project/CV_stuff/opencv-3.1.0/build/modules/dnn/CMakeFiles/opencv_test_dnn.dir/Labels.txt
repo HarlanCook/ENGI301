@@ -1,0 +1,49 @@
+# Target labels
+ Extra
+ opencv_dnn
+ AccuracyTest
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/cnpy.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_alexnet.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_caffe_importer.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_googlenet.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_layers.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_main.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_torch_importer.cpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/cnpy.h
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/npy_blob.hpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_common.hpp
+ Extra
+ opencv_dnn
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/dnn/test/test_precomp.hpp
+ Extra
+ opencv_dnn
+ AccuracyTest

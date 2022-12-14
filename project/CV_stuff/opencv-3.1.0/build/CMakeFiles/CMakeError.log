@@ -1,0 +1,51 @@
+Determining if the include file linux/videodev.h exists failed with the following output:
+Change Dir: /var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_64924/fast"
+/usr/bin/make -f CMakeFiles/cmTC_64924.dir/build.make CMakeFiles/cmTC_64924.dir/build
+make[1]: Entering directory '/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_64924.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -pthread -fomit-frame-pointer -ffunction-sections -fvisibility=hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_64924.dir/CheckIncludeFile.c.o   -c /var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: linux/videodev.h: No such file or directory
+ #include <linux/videodev.h>
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_64924.dir/build.make:66: CMakeFiles/cmTC_64924.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_64924/fast] Error 2
+
+
+Determining if the include file sys/videoio.h exists failed with the following output:
+Change Dir: /var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_25bb3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_25bb3.dir/build.make CMakeFiles/cmTC_25bb3.dir/build
+make[1]: Entering directory '/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_25bb3.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -pthread -fomit-frame-pointer -ffunction-sections -fvisibility=hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_25bb3.dir/CheckIncludeFile.c.o   -c /var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: sys/videoio.h: No such file or directory
+ #include <sys/videoio.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_25bb3.dir/build.make:66: CMakeFiles/cmTC_25bb3.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_25bb3/fast] Error 2
+
+
+Determining if the include file ffmpeg/avformat.h exists failed with the following output:
+Change Dir: /var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3ef06/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3ef06.dir/build.make CMakeFiles/cmTC_3ef06.dir/build
+make[1]: Entering directory '/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3ef06.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -fdiagnostics-show-option -pthread -fomit-frame-pointer -ffunction-sections -fvisibility=hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTC_3ef06.dir/CheckIncludeFile.c.o   -c /var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: ffmpeg/avformat.h: No such file or directory
+ #include <ffmpeg/avformat.h>
+          ^~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_3ef06.dir/build.make:66: CMakeFiles/cmTC_3ef06.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_3ef06/fast] Error 2
+
+

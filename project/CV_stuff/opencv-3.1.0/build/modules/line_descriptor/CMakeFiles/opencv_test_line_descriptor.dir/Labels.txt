@@ -1,0 +1,25 @@
+# Target labels
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/line_descriptor/test/test_descriptors_regression.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/line_descriptor/test/test_detector_regression.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/line_descriptor/test/test_main.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/line_descriptor/test/test_matcher_regression.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/line_descriptor/test/test_precomp.hpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest

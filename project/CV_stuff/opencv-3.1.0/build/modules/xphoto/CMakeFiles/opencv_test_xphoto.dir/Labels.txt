@@ -1,0 +1,25 @@
+# Target labels
+ Extra
+ opencv_xphoto
+ AccuracyTest
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/test/dct_image_denoising.cpp
+ Extra
+ opencv_xphoto
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/test/simple_color_balance.cpp
+ Extra
+ opencv_xphoto
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/test/test_grayworld.cpp
+ Extra
+ opencv_xphoto
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/test/test_main.cpp
+ Extra
+ opencv_xphoto
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/test/test_precomp.hpp
+ Extra
+ opencv_xphoto
+ AccuracyTest

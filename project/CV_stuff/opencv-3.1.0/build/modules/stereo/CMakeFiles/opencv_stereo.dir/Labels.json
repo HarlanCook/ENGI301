@@ -1,0 +1,93 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/include/opencv2/stereo.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/include/opencv2/stereo/descriptor.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/include/opencv2/stereo/matching.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/include/opencv2/stereo/stereo.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/src/descriptor.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/src/stereo_binary_bm.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/src/stereo_binary_sgbm.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/stereo/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/cvconfig.h"
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_stereo",
+			"Module"
+		],
+		"name" : "opencv_stereo"
+	}
+}

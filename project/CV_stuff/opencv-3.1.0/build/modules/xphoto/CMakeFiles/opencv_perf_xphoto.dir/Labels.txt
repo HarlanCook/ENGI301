@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_xphoto
+ PerfTest
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/perf/perf_grayworld.cpp
+ Extra
+ opencv_xphoto
+ PerfTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/perf/perf_main.cpp
+ Extra
+ opencv_xphoto
+ PerfTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/perf/perf_precomp.hpp
+ Extra
+ opencv_xphoto
+ PerfTest

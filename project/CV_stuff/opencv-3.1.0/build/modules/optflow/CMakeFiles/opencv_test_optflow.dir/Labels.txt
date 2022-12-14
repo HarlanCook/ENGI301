@@ -1,0 +1,29 @@
+# Target labels
+ Extra
+ opencv_optflow
+ AccuracyTest
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/test/ocl/test_motempl.cpp
+ Extra
+ opencv_optflow
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/test/test_main.cpp
+ Extra
+ opencv_optflow
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/test/test_motiontemplates.cpp
+ Extra
+ opencv_optflow
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/test/test_simpleflow.cpp
+ Extra
+ opencv_optflow
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/test/test_sparsetodenseflow.cpp
+ Extra
+ opencv_optflow
+ AccuracyTest
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/optflow/test/test_precomp.hpp
+ Extra
+ opencv_optflow
+ AccuracyTest

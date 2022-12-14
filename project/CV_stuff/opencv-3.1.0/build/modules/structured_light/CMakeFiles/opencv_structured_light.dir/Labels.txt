@@ -1,0 +1,27 @@
+# Target labels
+ Extra
+ opencv_structured_light
+ Module
+# Source files and their labels
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/structured_light/include/opencv2/structured_light.hpp
+ Extra
+ opencv_structured_light
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/structured_light/include/opencv2/structured_light/graycodepattern.hpp
+ Extra
+ opencv_structured_light
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/structured_light/include/opencv2/structured_light/structured_light.hpp
+ Extra
+ opencv_structured_light
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/structured_light/src/graycodepattern.cpp
+ Extra
+ opencv_structured_light
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/structured_light/src/precomp.hpp
+ Extra
+ opencv_structured_light
+ Module
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/cvconfig.h
+/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/opencv2/opencv_modules.hpp

@@ -1,0 +1,156 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/include/opencv2/xphoto.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/include/opencv2/xphoto/dct_image_denoising.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/include/opencv2/xphoto/inpainting.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/include/opencv2/xphoto/white_balance.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/dct_image_denoising.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/grayworld_white_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/inpainting.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/simple_color_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/advanced_types.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/annf.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/blending.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/gcgraph.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/norm2.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/photomontage.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv_contrib-3.1.0/modules/xphoto/src/whs.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Module"
+			]
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/cvconfig.h"
+		},
+		{
+			"file" : "/var/lib/cloud9/test/bbb_wireless/opencv-3.1.0/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xphoto",
+			"Module"
+		],
+		"name" : "opencv_xphoto"
+	}
+}
