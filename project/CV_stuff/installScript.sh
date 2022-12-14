@@ -39,6 +39,13 @@ sudo apt-get install flite
 # pyttsx:
 sudo pip3 install pyttsx
 
+# evdev libraries
+sudo apt-get install python-dev python-pip gcc
+sudo apt-get install linux-headers-$(uname -r)
+
+sudo pip3 install evdev    # available globally, use pip3 for python3
+sudo pip3 install --user evdev  # available to the current user
+
 # Documentation:
 sudo apt-get install -y doxygen
 
@@ -49,6 +56,7 @@ unzip opencv.zip
 # Download EXTRA MODULES and extract.
 curl -sL https://github.com/Itseez/opencv_contrib/archive/3.1.0.zip > opencv_contrib.zip
 unzip opencv_contrib.zip
+
 
 #cd opencv-3.1.0
 #mkdir build
